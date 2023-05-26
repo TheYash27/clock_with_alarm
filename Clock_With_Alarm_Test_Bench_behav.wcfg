@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="Clock_With_Alarm_Test_Bench_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="Clock_With_Alarm_Test_Bench" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0.000 ns"></ZoomStartTime>
+      <ZoomEndTime time="1,000.001 ns"></ZoomEndTime>
+      <Cursor1Time time="1,000.000 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="230"></NameColumnWidth>
+      <ValueColumnWidth column_width="90"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="17" />
+   <wvobject fp_name="/Clock_With_Alarm_Test_Bench/clock" type="logic">
+      <obj_property name="ElementShortName">clock</obj_property>
+      <obj_property name="ObjectShortName">clock</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Clock_With_Alarm_Test_Bench/reset" type="logic">
+      <obj_property name="ElementShortName">reset</obj_property>
+      <obj_property name="ObjectShortName">reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Clock_With_Alarm_Test_Bench/hou1" type="array">
+      <obj_property name="ElementShortName">hou1[1:0]</obj_property>
+      <obj_property name="ObjectShortName">hou1[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Clock_With_Alarm_Test_Bench/hou0" type="array">
+      <obj_property name="ElementShortName">hou0[3:0]</obj_property>
+      <obj_property name="ObjectShortName">hou0[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Clock_With_Alarm_Test_Bench/min1" type="array">
+      <obj_property name="ElementShortName">min1[3:0]</obj_property>
+      <obj_property name="ObjectShortName">min1[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Clock_With_Alarm_Test_Bench/min0" type="array">
+      <obj_property name="ElementShortName">min0[3:0]</obj_property>
+      <obj_property name="ObjectShortName">min0[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Clock_With_Alarm_Test_Bench/loatim" type="logic">
+      <obj_property name="ElementShortName">loatim</obj_property>
+      <obj_property name="ObjectShortName">loatim</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Clock_With_Alarm_Test_Bench/loaala" type="logic">
+      <obj_property name="ElementShortName">loaala</obj_property>
+      <obj_property name="ObjectShortName">loaala</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Clock_With_Alarm_Test_Bench/stoala" type="logic">
+      <obj_property name="ElementShortName">stoala</obj_property>
+      <obj_property name="ObjectShortName">stoala</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Clock_With_Alarm_Test_Bench/alaon" type="logic">
+      <obj_property name="ElementShortName">alaon</obj_property>
+      <obj_property name="ObjectShortName">alaon</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Clock_With_Alarm_Test_Bench/alarm" type="logic">
+      <obj_property name="ElementShortName">alarm</obj_property>
+      <obj_property name="ObjectShortName">alarm</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Clock_With_Alarm_Test_Bench/houout1" type="array">
+      <obj_property name="ElementShortName">houout1[1:0]</obj_property>
+      <obj_property name="ObjectShortName">houout1[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Clock_With_Alarm_Test_Bench/houout0" type="array">
+      <obj_property name="ElementShortName">houout0[3:0]</obj_property>
+      <obj_property name="ObjectShortName">houout0[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Clock_With_Alarm_Test_Bench/minout1" type="array">
+      <obj_property name="ElementShortName">minout1[3:0]</obj_property>
+      <obj_property name="ObjectShortName">minout1[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Clock_With_Alarm_Test_Bench/minout0" type="array">
+      <obj_property name="ElementShortName">minout0[3:0]</obj_property>
+      <obj_property name="ObjectShortName">minout0[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Clock_With_Alarm_Test_Bench/secout1" type="array">
+      <obj_property name="ElementShortName">secout1[3:0]</obj_property>
+      <obj_property name="ObjectShortName">secout1[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Clock_With_Alarm_Test_Bench/secout0" type="array">
+      <obj_property name="ElementShortName">secout0[3:0]</obj_property>
+      <obj_property name="ObjectShortName">secout0[3:0]</obj_property>
+   </wvobject>
+</wave_config>
